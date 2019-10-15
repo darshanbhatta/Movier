@@ -1,4 +1,4 @@
-# Movier
+# (Inactive) Movier
 
 Your go to movie app made with Flutter
 
